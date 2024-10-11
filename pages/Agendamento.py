@@ -18,7 +18,7 @@ st.set_page_config(
 
 
 
-st.title('BarberApp - :blue[Agendamentos] ' )
+st.title('Barbearia - :blue[Agendamentos] ' )
 
 
 # Função para verificar a disponibilidade do horário
